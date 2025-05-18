@@ -1,5 +1,2 @@
-.ipynb_checkpoints/Task 2 - eda_starter-checkpoint.ipynb
-.ipynb_checkpoints/Task 3 - feature_engineering-checkpoint.ipynb
-.ipynb_checkpoints/Task 3 - Model Answer - Feature Engineering-checkpoint.ipynb
-.ipynb_checkpoints/Task 4 - Model Answer - Modeling-checkpoint.ipynb
-.ipynb_checkpoints/Task 4 - modeling_starter-checkpoint.ipynb
+**/*.ipynb_checkpoints/
+.ipynb_checkpoints
